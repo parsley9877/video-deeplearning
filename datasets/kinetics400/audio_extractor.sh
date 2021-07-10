@@ -1,0 +1,1 @@
+ffmpeg -i ./datasets/kinetics400/video.mp4 -f wav -ab 69000 -vn ./datasets/kinetics400/audio.wav
