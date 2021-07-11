@@ -1,3 +1,0 @@
-[submodule "datasets/kinetics-downloader"]
-	path = datasets/kinetics-downloader
-	url = git@github.com:parsley9877/kinetics-downloader.git
